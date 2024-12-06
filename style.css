@@ -134,6 +134,7 @@ ul li::before {
 h2:not(.prep-title) {
   font-family: var(--serif-font);
   font-size: 1.75rem;
+  font-weight: 400;
   color: var(--brown-800);
 }
 
